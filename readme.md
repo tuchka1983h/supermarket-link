@@ -4,11 +4,11 @@ Introducing SuperMarket, a revolutionary darknet market that is here to redefine
 ## SuperMarket Darknet Link:
 
 ```sh
-http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion
+http://superxxxp22jpt4xjhr3i6722725x4mdsoxs4adtnyj6ofeki5jilvad.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://superxxxp22jpt4xjhr3i6722725x4mdsoxs4adtnyj6ofeki5jilvad.onion)
 
-<a href="http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion"><img src="/assets/supermarket-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://superxxxp22jpt4xjhr3i6722725x4mdsoxs4adtnyj6ofeki5jilvad.onion"><img src="/assets/supermarket-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -20,4 +20,4 @@ Astra Market first opened its doors in April 2023, but just three months later i
 Registering for an account on SuperMarket is 'super' easy. Simply choose a username and password, then complete the captcha, and you're good to go.
 But wait a minute! Supermarket lets you browse the market without an account, and it's one of only a few markets that lets you make purchases without an account. So if you're really security conscious and don't like the idea of registering for anything, or just want the quickest experience possible, SuperMarket offers you an alternative. Just a heads-up: there are a few features you won't be able to access. As you'd expect, registration (plus PGP 2-FA) is mandatory for vendors.
 
-<a href="http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion"><img src="/assets/supermarket-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion"><img src="/assets/supermarket-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://superxxxp22jpt4xjhr3i6722725x4mdsoxs4adtnyj6ofeki5jilvad.onion"><img src="/assets/supermarket-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://superxxxp22jpt4xjhr3i6722725x4mdsoxs4adtnyj6ofeki5jilvad.onion"><img src="/assets/supermarket-register.webp" alt="image" style="max-width: 100%;"><a>
